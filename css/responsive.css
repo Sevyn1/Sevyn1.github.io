@@ -1,0 +1,11 @@
+@media (min-width: 1200px){
+    .container {
+      --bs-gutter-x: 15px;
+    }
+    .container-fluid {
+      --bs-gutter-x: 15px;
+    }
+    .row {
+      --bs-gutter-x: 30px;
+    }
+  }
