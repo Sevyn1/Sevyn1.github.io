@@ -9,9 +9,3 @@
       --bs-gutter-x: 30px;
     }
   }
-
-@media (min-width: 768px){
-  .moses {
-    margin-top: 25%;
-  }
-}
